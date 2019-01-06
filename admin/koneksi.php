@@ -1,8 +1,8 @@
 <?php
- $server="localhost";
- $username="root";
- $password="";
- $namadatabase="kampung_sholawat";
+ $server="sql12.freemysqlhosting.net";
+ $username="sql12272891";
+ $password="nY9v1a32eN";
+ $namadatabase="sql12272891";
 $conn=mysqli_connect($server,$username,$password,$namadatabase);
 
 if(!$conn){
